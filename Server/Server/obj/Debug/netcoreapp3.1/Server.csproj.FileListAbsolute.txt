@@ -1,0 +1,15 @@
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\ThanhNhan\Desktop\DoAnCuoiKi\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
